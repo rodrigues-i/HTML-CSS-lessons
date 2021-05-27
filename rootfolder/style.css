@@ -101,10 +101,14 @@ input, select {
     vertical-align:middle;
 }
 
+/*MY CODE*/
 
-h2 {
-    color: red;
+#title {
+    color: greenyellow;
 }
-.title {
-    color: black;
+p {
+    color: green;
+}
+.intro p {
+    color: palevioletred
 }
