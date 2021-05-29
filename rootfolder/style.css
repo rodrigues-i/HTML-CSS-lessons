@@ -1,21 +1,10 @@
-h1 {
-    font-family: arial, "Times New Roman";
-    font-size: 22px;
-    font-style: italic;
-    font-weight: 100;
-    text-align: left;
-    text-decoration: underline;
-    text-indent: 50px;
-    text-transform: lowercase;
-    color: #37FAF2;
-    word-spacing: 5px;
-    
+@font-face {
+    src: url(fonts/Nosifer-Regular.ttf);
+    font-family: noz;
 }
-p {
-    font-size: 22px;
-    line-height: 30px;
-    text-indent: 40px;
-}
-a {
-    text-decoration: none;
+
+.paragraph {
+    font-size: 50px;
+    line-height: 62px;
+    font-family: noz;
 }
